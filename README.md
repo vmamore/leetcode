@@ -1,1 +1,1 @@
-# Repositório de exercício resolvidos do leetcode
+# Repositório de exercícios resolvidos do leetcode
