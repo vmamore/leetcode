@@ -1,0 +1,13 @@
+C:\Labs\leetcode\defanging-ip-address\bin\Debug\netcoreapp3.1\defanging-ip-address.exe
+C:\Labs\leetcode\defanging-ip-address\bin\Debug\netcoreapp3.1\defanging-ip-address.deps.json
+C:\Labs\leetcode\defanging-ip-address\bin\Debug\netcoreapp3.1\defanging-ip-address.runtimeconfig.json
+C:\Labs\leetcode\defanging-ip-address\bin\Debug\netcoreapp3.1\defanging-ip-address.runtimeconfig.dev.json
+C:\Labs\leetcode\defanging-ip-address\bin\Debug\netcoreapp3.1\defanging-ip-address.dll
+C:\Labs\leetcode\defanging-ip-address\bin\Debug\netcoreapp3.1\defanging-ip-address.pdb
+C:\Labs\leetcode\defanging-ip-address\obj\Debug\netcoreapp3.1\defanging-ip-address.csprojAssemblyReference.cache
+C:\Labs\leetcode\defanging-ip-address\obj\Debug\netcoreapp3.1\defanging-ip-address.csproj.CoreCompileInputs.cache
+C:\Labs\leetcode\defanging-ip-address\obj\Debug\netcoreapp3.1\defanging-ip-address.AssemblyInfoInputs.cache
+C:\Labs\leetcode\defanging-ip-address\obj\Debug\netcoreapp3.1\defanging-ip-address.AssemblyInfo.cs
+C:\Labs\leetcode\defanging-ip-address\obj\Debug\netcoreapp3.1\defanging-ip-address.dll
+C:\Labs\leetcode\defanging-ip-address\obj\Debug\netcoreapp3.1\defanging-ip-address.pdb
+C:\Labs\leetcode\defanging-ip-address\obj\Debug\netcoreapp3.1\defanging-ip-address.genruntimeconfig.cache
